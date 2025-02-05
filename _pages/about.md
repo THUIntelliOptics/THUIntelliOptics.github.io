@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor and PhD supervisor at Tsinghua-Berkeley Shenzhen Institute (TBSI), Tsinghua University. My research focuses on optical computing, computational imaging, and integrated photonics.
+I am currently an Assistant Professor and PhD supervisor at Data and Information Institute, Tsinghua University. My research focuses on optical computing, computational imaging, and integrated photonics.
 
 ## Education
 * Ph.D., Electrical and Computer Systems Engineering (ECSE), Monash University, 2015-2018
