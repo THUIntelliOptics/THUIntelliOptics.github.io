@@ -3,7 +3,7 @@ title: "Cross-disciplinary Innovation Practice Course - 3D Display and Interacti
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/3d-display
-venue: "Tsinghua-Berkeley Shenzhen Institute, Tsinghua University"
+venue: "Data and Information Institute, Tsinghua University"
 date: 2024-09-01
 location: "Shenzhen, China"
 ---

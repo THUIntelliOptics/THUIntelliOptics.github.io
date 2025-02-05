@@ -3,7 +3,7 @@ title: "Introduction to Fourier Optics"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/fourier-optics
-venue: "Tsinghua-Berkeley Shenzhen Institute, Tsinghua University"
+venue: "Data and Information Institute, Tsinghua University"
 date: 2024-09-01
 location: "Shenzhen, China"
 ---
