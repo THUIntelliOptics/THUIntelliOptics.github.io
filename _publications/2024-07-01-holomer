@@ -1,0 +1,18 @@
+---
+title: "Speckle-free holography with a diffraction-aware global perceptual model"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-holomer
+excerpt: 'This repository is an official implementation of paper "Speckle-free holography with a diffraction-aware global perceptual model".'
+date: 2024-07-01
+venue: 'Photonics Research'
+paperurl: 'https://doi.org/10.1364/PRJ.523650'
+slidesurl: 'https://github.com/YRWFWHU/Holomer'
+citation: 'Wei, Y., Chen, Y., Zhou, M., Chen, M. K., Jiao, S., Song, Q., ... & Geng, Z. (2024). Speckle-free holography with a diffraction-aware global perceptual model. <i>Photonics Research</i>, 12(11), 2418-2423.'
+---
+
+This repository is an official implementation of paper "Speckle-free holography with a diffraction-aware global perceptual model".
+
+[Download Paper](https://doi.org/10.1364/PRJ.523650)
+
+[Code Repository](https://github.com/YRWFWHU/Holomer) 
